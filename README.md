@@ -1,4 +1,4 @@
-builder-blueprint-buildcraft
+Collections of Blueprints for the Builder in Buildcraft 6.x
 ============================
 
 A place to find blueprints for the Builder in Buildcraft 6.x
