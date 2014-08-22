@@ -16,3 +16,8 @@ Use architect table to save the blueprint of the structure and share it on this 
 
 Note : Please careful with big structures. The Architect Table need lot of time to copy all the blocks in the blueprint.
 
+Structure of the blueprint folder
+----------------
+
+Each blueprint folder will have the blueprint file (.bpt), a screenshot of the structure and the credits if you are not the the author of the build. You must give a link to the author and the project as well.
+
