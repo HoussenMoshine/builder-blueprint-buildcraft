@@ -19,5 +19,5 @@ Note : Please careful with big structures. The Architect Table need lot of time 
 Structure of the blueprint folder
 ----------------
 
-Each blueprint folder will have the blueprint file (.bpt), a screenshot of the structure and the credits if you are not the the author of the build. You must give a link to the author and the project as well.
+Each blueprint folder will have the blueprint file (.bpt), a screenshot of the structure and the credits if you are not the author of the build. You must give a link to the author and the project as well. While downloading the blueprint, click on Raw because the Save as link option don't work.
 
