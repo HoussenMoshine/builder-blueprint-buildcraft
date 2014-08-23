@@ -21,4 +21,7 @@ Structure of the blueprint folder
 
 Each blueprint folder will have the blueprint file (.bpt), a screenshot of the structure and the credits if you are not the author of the build. You must give a link to the author and the project as well. While downloading the blueprint, click on Raw because the Save as link option don't work.
 
+Also, prefer vanilla blocks for your building. And if you use mods, please provide the informations about the mod, his version and the version of Minecraft.
+
+
 
