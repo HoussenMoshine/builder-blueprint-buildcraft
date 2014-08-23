@@ -45,6 +45,8 @@ The first slot of the Blueprint Library save the Blueprint. The second slot is f
 
 Note : The Architect Table and the Blueprint Library don't need power.
 
+Note : Your Blueprint's folder will be in the main folder of your Minecraft or instances.
+
 
 Be careful when you copy massive structures because sometimes, you have to wait several hours to finish the Blueprint.
 
