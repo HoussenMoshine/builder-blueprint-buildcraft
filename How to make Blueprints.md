@@ -6,7 +6,7 @@ Making a blueprint for Buildcraft and share it is very simple. For example, we'l
 
 ![House Example](http://i.imgur.com/RfOPruW.png)
 
-We must use Marker from Buildcraft to enclose the structure. You can use regular Marker or the Markers from the Mod QuarryPlus (they work too). Main reason to use these is that the QuarryPlus's can cover 256x256 if you use a Redstone signal.
+We must use Marker from Buildcraft to enclose the structure. You can use regular Markers or the Markers from the Mod QuarryPlus (they work too). Main reason to use these is that the QuarryPlus markers can cover 256 x 256 if you use a Redstone signal.
 
 ![Marker](http://i.imgur.com/GsZEpnf.png)
 
@@ -35,13 +35,13 @@ You can rename your blueprint of course.
 
 ![Rename the blueprint](http://i.imgur.com/Ix9mt6l.png)
 
-You have created your Blueprint, but it's only for local. If you want share it with the world, you must save in the Blueprint Library.
+You have created your Blueprint, but he's not shareable yet. If you want share it with the world, you must save in the Blueprint Library.
 
 ![GitHub Logo](http://i.imgur.com/Qf2GtwE.png)
 
 ![GitHub Logo](http://i.imgur.com/xKXvmUh.png)
 
-The first slot of the Blueprint Library save the Blueprint. The second slot is for loading the Blueprint. For this one in a new world, you put just a Blank Blueprint and voila.
+The first slot of the Blueprint Library save the Blueprint. The second slot is for loading the Blueprint. For this one in a new world, you put a Blank Blueprint, select your Blueprint in the list and voila.
 
 Note : The Architect Table and the Blueprint Library don't need power.
 
