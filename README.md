@@ -23,5 +23,10 @@ Each blueprint folder will have the blueprint file (.bpt), a screenshot of the s
 
 Also, prefer vanilla blocks for your building. And if you use mods, please provide the informations about the mod, his version and the version of Minecraft.
 
+Useful links
+------------
+
+* [How to use Blueprints](https://github.com/HoussenMoshine/builder-blueprint-buildcraft/blob/master/How%20to%20use%20a%20Blueprint.md)
+* [How to make Blueprints](https://github.com/HoussenMoshine/builder-blueprint-buildcraft/blob/master/How%20to%20make%20Blueprints.md)
 
 
